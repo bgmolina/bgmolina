@@ -15,15 +15,15 @@ This is the reason I can handle working with many technologies and am not afraid
 
 <img
   alt="PostGres"
-  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+  src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"
 />
 <img
   alt="git"
-  src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white"
+  src="https://img.shields.io/badge/-Git-F05032?&style=flat-square&logo=git&logoColor=white"
 />
 <img
   alt="VS Code"
-  src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="
+  src="https://img.shields.io/static/v1?style=flat-square&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="
 />
 <img
   alt="Docker"
