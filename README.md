@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Braian Molina.
+# 👋 Hello, I'm Braian
 - 👨‍💻Programmer and tech geek 🤓
 - I enjoy learning something new and work with data.
 - This is the reason I can handle working with many technologies and am not afraid to take on new and complex tasks that require getting new skills.
