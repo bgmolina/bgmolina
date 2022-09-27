@@ -6,9 +6,9 @@ This is the reason I can handle working with many technologies and am not afraid
 
 ### 🔗 Connect with me
 <p>
-  <a href="www.linkedin.com/in/braian-gabriel-molina">
+  <a href="https://www.linkedin.com/in/braian-gabriel-molina" title="@Braian Molina on Linkedin">
     <img
-      src="https://img.shields.io/badge/@Braian Molina-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/@Braian Molina-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link="https://www.linkedin.com/in/braian-gabriel-molina"
       alt="linkedin badge"
     />
   </a>
