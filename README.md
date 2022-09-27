@@ -40,25 +40,20 @@ This is the reason I can handle working with many technologies and am not afraid
 <img
   src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"
   alt="nodejs badge"
-  //style="vertical-align: top; margin: 4px"
 />
 <img
   src="https://img.shields.io/badge/React-007096?style=flat-square&logo=react&logoColor=white"
   alt="react badge"
-  //style="vertical-align: top; margin: 4px"
 />
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=css3&logoColor=white"
   alt="html5 badge"
-  //style="vertical-align: top; margin: 4px"
 />
 <img
   src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
   alt="css3 badge"
-  //style="vertical-align: top; margin: 4px"
 />
 <img
   src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"
   alt="mongodb"
-  //style="vertical-align: top; margin: 4px"
 />
