@@ -31,6 +31,10 @@
   src="https://img.shields.io/badge/-Docker-46a2f1?&style=flat-square&logo=docker&logoColor=white"
 />
 <img
+  alt="Figma"
+  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"
+/>
+<img
   alt="nodejs badge"
   src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"
 />
