@@ -27,9 +27,8 @@ This is the reason I can handle working with many technologies and am not afraid
 />
 <img
   alt="Docker"
-  src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white"
+  src="https://img.shields.io/badge/-Docker-46a2f1?&style=flat-square&logo=docker&logoColor=white"
 />
-
 <img
   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
   alt="javascript badge"
